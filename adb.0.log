@@ -1,0 +1,63 @@
+--- adb starting (pid 11453) ---
+adb I 06-25 21:38:51 11453 11453 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 06-25 21:38:51 11453 11453 main.cpp:56] Version 4797878
+adb I 06-25 21:38:51 11453 11453 main.cpp:56] Installed as /home/dipesh/Android/Sdk/platform-tools/adb
+adb I 06-25 21:38:51 11453 11453 main.cpp:56] 
+adb I 06-25 21:38:52 11453 11453 auth.cpp:421] adb_auth_init...
+adb I 06-25 21:38:52 11453 11453 auth.cpp:174] read_key_file '/home/dipesh/.android/adbkey'...
+adb I 06-25 21:38:52 11453 11453 auth.cpp:396] adb_auth_inotify_init...
+adb server killed by remote request
+--- adb starting (pid 16703) ---
+adb I 06-25 22:35:19 16703 16703 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 06-25 22:35:19 16703 16703 main.cpp:56] Version 4797878
+adb I 06-25 22:35:19 16703 16703 main.cpp:56] Installed as /home/dipesh/Android/Sdk/platform-tools/adb
+adb I 06-25 22:35:19 16703 16703 main.cpp:56] 
+adb I 06-25 22:35:19 16703 16703 auth.cpp:421] adb_auth_init...
+adb I 06-25 22:35:19 16703 16703 auth.cpp:174] read_key_file '/home/dipesh/.android/adbkey'...
+adb I 06-25 22:35:19 16703 16703 auth.cpp:396] adb_auth_inotify_init...
+adb I 06-25 22:35:19 16703 16709 transport.cpp:103] 8b5ccd58: read thread spawning
+adb I 06-25 22:35:19 16703 16710 transport.cpp:116] 8b5ccd58: write thread spawning
+adb I 06-25 22:35:19 16703 16703 auth.cpp:472] Calling send_auth_response
+adb I 06-25 22:35:19 16703 16703 adb.cpp:145] 8b5ccd58: offline
+adb server killed by remote request
+adb I 06-25 22:35:37 16703 16703 transport.cpp:159] BlockingConnectionAdapter(8b5ccd58): stopping
+adb I 06-25 22:35:37 16703 16709 transport.cpp:107] 8b5ccd58: read failed: Invalid argument
+adb I 06-25 22:35:37 16703 16703 transport.cpp:177] BlockingConnectionAdapter(8b5ccd58): stopped
+--- adb starting (pid 16288) ---
+adb I 06-25 22:59:51 16288 16288 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 06-25 22:59:51 16288 16288 main.cpp:56] Version 4797878
+adb I 06-25 22:59:51 16288 16288 main.cpp:56] Installed as /home/dipesh/Android/Sdk/platform-tools/adb
+adb I 06-25 22:59:51 16288 16288 main.cpp:56] 
+adb I 06-25 22:59:51 16288 16288 auth.cpp:421] adb_auth_init...
+adb I 06-25 22:59:51 16288 16288 auth.cpp:174] read_key_file '/home/dipesh/.android/adbkey'...
+adb I 06-25 22:59:51 16288 16288 auth.cpp:396] adb_auth_inotify_init...
+adb I 06-25 22:59:51 16288 16293 transport.cpp:103] 8b5ccd58: read thread spawning
+adb I 06-25 22:59:51 16288 16294 transport.cpp:116] 8b5ccd58: write thread spawning
+adb I 06-25 22:59:51 16288 16288 auth.cpp:472] Calling send_auth_response
+adb I 06-25 22:59:51 16288 16288 adb.cpp:145] 8b5ccd58: offline
+adb server killed by remote request
+adb I 06-25 23:00:08 16288 16288 transport.cpp:159] BlockingConnectionAdapter(8b5ccd58): stopping
+adb I 06-25 23:00:08 16288 16293 transport.cpp:107] 8b5ccd58: read failed: Invalid argument
+adb I 06-25 23:00:08 16288 16288 transport.cpp:177] BlockingConnectionAdapter(8b5ccd58): stopped
+--- adb starting (pid 17557) ---
+adb I 06-25 23:09:09 17557 17557 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 06-25 23:09:09 17557 17557 main.cpp:56] Version 4797878
+adb I 06-25 23:09:09 17557 17557 main.cpp:56] Installed as /home/dipesh/Android/Sdk/platform-tools/adb
+adb I 06-25 23:09:09 17557 17557 main.cpp:56] 
+adb I 06-25 23:09:09 17557 17557 auth.cpp:421] adb_auth_init...
+adb I 06-25 23:09:09 17557 17557 auth.cpp:174] read_key_file '/home/dipesh/.android/adbkey'...
+adb I 06-25 23:09:09 17557 17557 auth.cpp:396] adb_auth_inotify_init...
+--- adb starting (pid 19000) ---
+adb I 06-26 22:52:03 19000 19000 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 06-26 22:52:03 19000 19000 main.cpp:56] Version 4797878
+adb I 06-26 22:52:03 19000 19000 main.cpp:56] Installed as /home/dipesh/Android/Sdk/platform-tools/adb
+adb I 06-26 22:52:03 19000 19000 main.cpp:56] 
+adb I 06-26 22:52:03 19000 19000 auth.cpp:421] adb_auth_init...
+adb I 06-26 22:52:03 19000 19000 auth.cpp:174] read_key_file '/home/dipesh/.android/adbkey'...
+adb I 06-26 22:52:03 19000 19000 auth.cpp:396] adb_auth_inotify_init...
+adb I 06-26 22:52:03 19000 19005 transport.cpp:103] emulator-5554: read thread spawning
+adb I 06-26 22:52:03 19000 19006 transport.cpp:116] emulator-5554: write thread spawning
+adb server killed by remote request
+adb I 06-26 22:53:58 19000 19000 transport.cpp:159] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 06-26 22:53:58 19000 19005 transport.cpp:107] emulator-5554: read failed: Success
+adb I 06-26 22:53:58 19000 19000 transport.cpp:177] BlockingConnectionAdapter(emulator-5554): stopped
